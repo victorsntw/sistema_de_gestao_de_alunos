@@ -23,4 +23,4 @@ O sistema oferece um menu interativo com as seguintes operações:
 
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone https://github.com/victorsntw/sistema_de_gestao_de_alunos.git
