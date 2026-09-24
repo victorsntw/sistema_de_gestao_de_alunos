@@ -1,0 +1,3 @@
+Victor;10.0
+Pedro;2.2
+João;9.3
